@@ -1,8 +1,26 @@
-title: Just the Docs Template
+title: MPTCP Enabler Tutorial
 description: A starter template for a Jeykll site using the Just the Docs theme!
+
+
 theme: just-the-docs
+favicon_ico: "/assets/mptcp_logo.svg"
 
 url: https://just-the-docs.github.io
+
+
+callouts:
+  warning:
+    title: Warning
+    color: red
+
+  note:
+    title: note
+    color: blue
+
+  info:
+    title: Info
+    color: green
+    
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
